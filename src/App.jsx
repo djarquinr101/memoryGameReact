@@ -5,7 +5,6 @@ import logic from "./data/logic"
 import BoxCanvas from "./components/BoxCanvas"
 import Modal from "./components/Modal"
 import ModalInstructions from "./components/ModalInstructions"
-import Right from "./assets/right.png"
 
 function App() {
   const [rightBoxes, setRightBoxes] = useState([])

@@ -1,8 +1,8 @@
 import { useState } from "react"
-import rightImage from "../assets/right.png"
-import wrongImage from "../assets/wrong.jpg"
-import winner from "../assets/winner.jpg"
-import loser from "../assets/loser.jpg"
+import rightImage from "/assets/right.png"
+import wrongImage from "/assets/wrong.jpg"
+import winner from "/assets/winner.jpg"
+import loser from "/assets/loser.jpg"
 
 
 const Modal = ({open, type}) => {
