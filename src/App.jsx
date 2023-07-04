@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react"
-import Box from "./components/box"
 import Button from "./components/Button"
 import boxData from "./data/data"
 import logic from "./data/logic"
